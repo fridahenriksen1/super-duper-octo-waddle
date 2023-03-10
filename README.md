@@ -14,3 +14,5 @@ Hello World!
 ### Pink flower
 
 ![image](img/han-chenxu-YdAqiUkUoWA-unsplash.jpg)
+
+As Kanye West said: >We're living the future so the present is our past<
